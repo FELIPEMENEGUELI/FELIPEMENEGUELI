@@ -1,9 +1,6 @@
-### Ola, Sou Felipe Menegueli!!
 
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ReactJs, React Native.
+- 🌱  Buscando o maximo de conhecimento possível, inicio de carreira!
 
 <div align="center">
   <a href="https://github.com/felipemenegueli">

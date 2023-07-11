@@ -11,15 +11,9 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
 - 💻 Durante um período atuei como Desenvolvedor back-end .NET/C#.
 - 💻 E hoje trabalhando com React/Javascript.
 
-<div align="center">
-  <a href="https://github.com/felipemenegueli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemenegueli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemenegueli&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
  ##
  
- Contatos
+ ✉️ Contatos
  
 <div> 
   <a href="https://instagram.com/felipemenegueli_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,7 +23,7 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
 
     ##
   
-  👨‍💻💻 Algumas das Tecnologias e ferramentas ja utilizadas
+👨‍💻💻 Algumas das Tecnologias e ferramentas ja utilizadas
   
     ##
  <div style="display: inline_block"><br>
@@ -43,5 +37,11 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
   <img align="center" alt="Felipe-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
   
+
+<div align="center">
+  <a href="https://github.com/felipemenegueli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemenegueli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemenegueli&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
   
 

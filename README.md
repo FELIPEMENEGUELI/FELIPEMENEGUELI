@@ -11,6 +11,7 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
 - 💻 Durante um período atuei como Desenvolvedor back-end .NET/C#.
 - 💻 E hoje trabalhando com React/Javascript.
 
+<hr/> <br/>
 
  <span>✉️ Contatos</span>
  <hr/>

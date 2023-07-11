@@ -21,6 +21,8 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
   <a href="https://www.linkedin.com/in/felipefmenegueli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<div></div>
+
   
 👨‍💻💻 Algumas das Tecnologias e ferramentas ja utilizadas
   

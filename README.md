@@ -11,9 +11,8 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
 - 💻 Durante um período atuei como Desenvolvedor back-end .NET/C#.
 - 💻 E hoje trabalhando com React/Javascript.
 
- ##
- <div>
-     
+
+ <div>     
  ✉️ Contatos
  ##
   <a href="https://instagram.com/felipemenegueli_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

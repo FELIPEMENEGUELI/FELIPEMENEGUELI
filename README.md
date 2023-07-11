@@ -1,11 +1,15 @@
-Formado como desenvolvedor full stack em um programa de Residência/TIC em software, hoje tenho mais facilidade para trabalhar como front-end, quero me desenvolver e seguir carreira nessa área de conhecimento. 
+Bom se chegou até aqui quer conhecer melhor sobre mim.. então vamos lá.. 
+Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhorar cada dia minha habilidade para prestar melhor meu serviço a empresa. 
+Cursando Analise e Desenvolvimento de Sistemas na Estacio.
+Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em software. hoje tenho mais facilidade para trabalhar como front-end, quero me desenvolver e seguir carreira nessa área de conhecimento. 
 
 - 🌱  Aperfeiçoando JavaScript, CSS e HTML.
 - 🌱  Estudando React.js, e Node.JS.
-  Trabalhando na t2m Test To Market.
-- ![WorkGIF](https://github.com/FELIPEMENEGUELI/FELIPEMENEGUELI/assets/89466512/a08b5f2a-5760-4545-b1ff-d950faf98ee4)
-- 💻 Durante um período atuei como Dev back-end .NET/C#.
-- 💻 E hoe trabalhando com React/Javascript.
+
+- 👨‍💻 Trabalho na t2m Test To Market.
+    
+- 💻 Durante um período atuei como Desenvolvedor back-end .NET/C#.
+- 💻 E hoje trabalhando com React/Javascript.
 
 <div align="center">
   <a href="https://github.com/felipemenegueli">

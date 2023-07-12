@@ -3,8 +3,8 @@ Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhora
 Cursando Analise e Desenvolvimento de Sistemas na Estacio.<br/>
 Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em software. hoje tenho mais facilidade para trabalhar como front-end, quero me desenvolver e seguir carreira nessa área de conhecimento. 
 
-- 🌱  Aperfeiçoando JavaScript, CSS e HTML.
-- 🌱  Estudando React.js, e Node.JS.
+- 🌱  Aperfeiçoando JavaScript, CSS e HTML. (Os fundamentos sempre é importante)
+- 🌱  Estudando React.js, Node.JS e Api's.
 
 - 👨‍💻 Trabalho na t2m Test To Market.
     

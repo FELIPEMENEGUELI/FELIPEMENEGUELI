@@ -1,4 +1,4 @@
-Bom se chegou até aqui quer conhecer melhor sobre mim.. então vamos lá.. <br/>
+Felipe Menegueli: https://meneguelif.carrd.co/<br/>
 Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhorar cada dia minha habilidade para prestar melhor meu serviço a empresa. <br/>
 Cursando Analise e Desenvolvimento de Sistemas na Estacio.<br/>
 Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em software. hoje tenho mais facilidade para trabalhar como front-end, quero me desenvolver e seguir carreira nessa área de conhecimento. 

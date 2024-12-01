@@ -1,4 +1,4 @@
-<img src={"https://drive.google.com/drive/folders/11TtFveht0qRTl4NeOk3gz5lXKRjW8A2y"} alt='Imagem de fundo com pessoas.' />
+<img src="https://drive.google.com/drive/folders/11TtFveht0qRTl4NeOk3gz5lXKRjW8A2y" />
 
 Felipe Menegueli: https://meneguelif.carrd.co/<br/>
 Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhorar cada dia minha habilidade para prestar melhor meu serviço a empresa. <br/>

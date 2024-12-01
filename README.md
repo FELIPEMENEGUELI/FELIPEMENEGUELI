@@ -1,5 +1,8 @@
 <img src="https://drive.google.com/drive/folders/11TtFveht0qRTl4NeOk3gz5lXKRjW8A2y" />
 
+![image](https://github.com/user-attachments/assets/d230035b-dbd5-4f7b-9369-265aee0010b4)
+
+
 Felipe Menegueli: https://meneguelif.carrd.co/<br/>
 Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhorar cada dia minha habilidade para prestar melhor meu serviço a empresa. <br/>
 Cursando Analise e Desenvolvimento de Sistemas na Estacio.<br/>

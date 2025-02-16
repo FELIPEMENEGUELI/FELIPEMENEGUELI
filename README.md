@@ -10,7 +10,7 @@ Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em sof
 - 🌱  Estudando React.js, Node.JS e Api's.
 - 🌱  Estudando Kubernetes, Grafana, e outras ferramentas de Devops.
 
-- 👨‍💻 Trabalho na t2m Test To Market.
+- 👨‍💻 Trabalho na T2m Test To Market.
     
 - 💻 Ja passei por alguns momentos em que atuei como desenvolvedor .NET, e hoje tenho como função principal Analista de Devops, e atuo tambem como desenvolvedor Frontend, tanto na parte de Web quanto Mobile.
 

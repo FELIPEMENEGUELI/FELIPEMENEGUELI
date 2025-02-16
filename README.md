@@ -1,15 +1,15 @@
 Felipe Menegueli: https://meneguelif.carrd.co/<br/>
 Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhorar cada dia minha habilidade para prestar melhor meu serviço a empresa. <br/>
-Cursando Analise e Desenvolvimento de Sistemas na Estacio.<br/>
-Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em software. hoje tenho mais facilidade para trabalhar como front-end, quero me desenvolver e seguir carreira nessa área de conhecimento. 
+Formado em Analise e Desenvolvimento de Sistemas.<br/>
+Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em software. 
 
-- 🌱  Aperfeiçoando JavaScript, CSS e HTML. (Os fundamentos sempre é importante)
+- 🌱  Aperfeiçoando Javascript, CSS e HTML. (Os fundamentos sempre é importante)
 - 🌱  Estudando React.js, Node.JS e Api's.
+- 🌱  Estudando Kubernetes, Grafana, e outras ferramentas de Devops.
 
 - 👨‍💻 Trabalho na t2m Test To Market.
     
-- 💻 Durante um período atuei como Desenvolvedor back-end .NET/C#.
-- 💻 E hoje trabalhando com React/Javascript.
+- 💻 Ja passei por alguns momentos em que atuei como desenvolvedor .NET, e hoje tenho como função principal Analista de Devops, e atuo tambem como desenvolvedor Frontend, tanto na parte de Web quanto Mobile.
 
 <br/> <br/>
 

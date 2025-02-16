@@ -1,6 +1,9 @@
-Felipe Menegueli: https://meneguelif.carrd.co/<br/>
-Meu nome é Felipe, desenvolvedor em constante busca por conhecimento, e melhorar cada dia minha habilidade para prestar melhor meu serviço a empresa. <br/>
+Seja bem-vindo!
+
+Meu nome é Felipe, sou um desenvolvedor em constante busca por conhecimento, me capacitando para prestar um ótimo serviço a minha empresa. <br/>
+
 Formado em Analise e Desenvolvimento de Sistemas.<br/>
+
 Sou um desenvolvedor Full-Stack formado em um programa de Residência/TIC em software. 
 
 - 🌱  Aperfeiçoando Javascript, CSS e HTML. (Os fundamentos sempre é importante)

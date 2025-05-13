@@ -18,6 +18,8 @@ jobs:
 
       - name: Checkout repository content
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Commit and push if changed
         uses: EndBug/add-and-commit@v9

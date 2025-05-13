@@ -29,5 +29,5 @@ jobs:
           author_email: snake-bot@users.noreply.github.com
           message: "Generate contribution snake"
           add: "dist/github-contribution-grid-snake.svg"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          push: true
 

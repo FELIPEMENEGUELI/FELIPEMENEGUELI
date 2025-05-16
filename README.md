@@ -7,9 +7,9 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 🚀 Formado também em uma **Residência em TIC/Software** — onde virei Full Stack de verdade 💪
+- 🚀 Formado também em uma **Residência em TIC/Software** — onde me tornei Desenvolvedor FullStack 💪
 - 👨‍🔧 Hoje sou **Analista de DevOps** na <strong>T2M | Test To Market</strong>
-- 💻 Já brinquei com `.NET`, porém sou mais do **JS**, mas nunca paro de explorar quando posso
+- 💻 Já mexi um pouco com `.NET`, porém sou mais do **JS**, mas nunca paro de explorar quando posso
 - 🔎 Estudando: `React`, `React-Native`, `Node.js`, `Kubernetes`, `Grafana`, `DevOps`, e os bons e velhos `fundamentos sempre`
 
 <br/>

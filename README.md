@@ -51,11 +51,6 @@
 
 <br/>
 
-<div>
-  <a href="https://github.com/felipemenegueli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemenegueli&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
-
 <br/>
 
 <div>
@@ -63,8 +58,5 @@
 </div>
 
 
-
 ![snake gif](https://raw.githubusercontent.com/FELIPEMENEGUELI/FELIPEMENEGUELI/main/dist/github-contribution-grid-snake.svg)
-
-
 

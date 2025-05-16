@@ -64,7 +64,7 @@
 
 
 
-![snake gif](https://raw.githubusercontent.com/felipemenegueli/felipemenegueli/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/FELIPEMENEGUELI/FELIPEMENEGUELI/main/dist/github-contribution-grid-snake.svg)
 
 
 
